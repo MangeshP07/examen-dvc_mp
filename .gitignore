@@ -1,4 +1,10 @@
+# Ignore python cache
+__pycache__/
+*.py[cod]
 
+# for macOS
 .DS_Store
+
+# envornment
 env_exam/
-data/raw_data/raw.csv
+
